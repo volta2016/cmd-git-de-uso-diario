@@ -5,8 +5,6 @@ cmd git del día a día
 RESUMEN GIT 
 
 
-RESUMEN GIT 
-
 git init 
 git status
 git add -A
